@@ -1,0 +1,26 @@
+{
+  "name": "private-ai-workspace",
+  "version": "1.0.0",
+  "description": "Rakshak AI - Offline AI Assistant",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ASHWANI9086/rakshak-ai.git"
+  },
+  "keywords": [],
+  "author": "Ashwani",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ASHWANI9086/rakshak-ai/issues"
+  },
+  "homepage": "https://github.com/ASHWANI9086/rakshak-ai#readme",
+  "dependencies": {
+    "vite": "^8.0.2"
+  }
+}
